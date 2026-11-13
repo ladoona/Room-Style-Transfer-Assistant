@@ -32,3 +32,11 @@ The project uses a pre-trained Stable Diffusion Image-to-Image pipeline to gener
 
 ## Author
 Developed as a practical Artificial Intelligence and Computer Vision project.
+
+## Before and After
+
+### Original Room
+![Original Room](original_room.png)
+
+### AI-Generated Design
+![Generated Modern Bedroom](generated_modern_bedroom.png)
