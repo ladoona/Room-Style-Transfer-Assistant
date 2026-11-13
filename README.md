@@ -40,3 +40,12 @@ Developed as a practical Artificial Intelligence and Computer Vision project.
 
 ### AI-Generated Design
 ![Generated Modern Bedroom](generated_modern_bedroom.png)
+
+## Live Demo
+
+Try the interactive application using the link below:
+
+[Launch Room Style Transfer Assistant](https://ea9012f054a1914157.gradio.live)
+
+**Note:** The Gradio demo link is temporary and works only while the application session is available.
+
